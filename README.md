@@ -1,81 +1,113 @@
-<h1 align="center">Salut 👋, je suis Mohamed TIOKARY</h1>
+<h1 align="center">👋 Bonjour, je suis Mohamed TIOKARY</h1>
+<h3 align="center">Data Scientist • Machine Learning Engineer • GenAI Enthusiast</h3>
 
-<h3 align="center">
-Je suis data scientist et data analyst, spécialisé dans la prévision et l’IA générative.
-Je conçois des modèles robustes et des pipelines reproductibles, tout en assurant leur
-déploiement sécurisé et leur suivi continu. J’allie rigueur technique et vulgarisation
-pour transformer des données complexes en décisions actionnables, en collaboration
-avec les équipes métier et IT.
-</h3>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=900&lines=Data+Scientist+specialized+in+Machine+Learning;Time+Series+Forecasting+%7C+Scoring+Models;Computer+Vision+%7C+Generative+AI;Building+Data+Driven+Solutions"/>
+</div>
 
-<h3 align="left">Connect with me :</h3>
+---
 
-<p align="left">
-<a href="https://twitter.com/mohamed.tiokary" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-<a href="mailto:tiokary.mohamed@gmail.com">
-<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40"/>
-</a>
+## À propos de moi
 
-<a href="https://www.linkedin.com/in/m-flamzy-tiokary-ing-data/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+📊 Data Scientist spécialisé en **Machine Learning, séries temporelles et scoring**.  
+
+🤖 Je développe également des solutions en **IA générative avec des LLM open source** et des applications data interactives pour faciliter la prise de décision.  
+
+Je travaille sur toute la chaîne de valeur data :
+
+- Exploration et préparation des données  
+- Modélisation statistique et machine learning  
+- Déploiement des modèles et visualisation des résultats  
+
+Mon objectif est de **transformer les données en solutions concrètes pour les métiers**.
+
+---
+
+## Domaines d'expertise
+
+| Domaine | Compétences |
+|---|---|
+| Machine Learning | Classification, Régression, Clustering |
+| Time Series | Forecasting, ARIMA, modèles ML pour séries temporelles |
+| Scoring | Modèles de scoring client et analyse du risque |
+| Computer Vision | Classification et analyse d’images |
+| IA Générative | LLM open source, NLP |
+| Data Visualisation | Dashboards interactifs |
+
+---
+
+## Projets / Applications
+
+| Projet | Techniques | Outils |
+|---|---|---|
+| Prévision de séries temporelles | Forecasting, feature engineering | Python, Prophet, Statsmodels |
+| Modèle de scoring client | Classification supervisée | Scikit-learn, XGBoost |
+| Analyse d’images | Computer Vision | OpenCV, PyTorch |
+| Application IA générative | NLP, LLM open source | HuggingFace, Transformers |
+| Dashboard analytique | Data storytelling | Streamlit, PowerBI |
+
+---
+
+## Stack technique
+
+### Langages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,sql,bash"/>
 </p>
 
-<h3 align="left">Languages and Tools :</h3>
+---
 
-<p align="left">
+### Machine Learning & IA
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+---
+
+### Data Science
+
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge">
+
+---
+
+### Data Visualisation
+
+<img src="https://img.shields.io/badge/Streamlit-F14C8D?style=for-the-badge&logo=streamlit">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge">
+
+---
+
+### Tools & Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,linux"/>
+</p>
+
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop">
+
+---
+
+## Contact
+
+<p align="center">
+
+<a href="mailto:tiokary.mohamed@gmail.com">
+<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/>
 </a>
 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/m-flamzy-tiokary-ing-data/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://grafana.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-</a>
-
-<a href="https://graphql.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-</a>
-
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<a href="https://twitter.com/mohamed.tiokary">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
 </a>
 
 </p>
