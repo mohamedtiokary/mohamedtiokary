@@ -1,5 +1,5 @@
 <h1 align="center">👋 Bonjour, je suis Mohamed TIOKARY</h1>
-<h3 align="center">Data Scientist • Machine Learning Engineer • GenAI Enthusiast</h3>
+<h3 align="center">Data Scientist • Machine Learning Engineer • GenAI</h3>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=900&lines=Data+Scientist+specialized+in+Machine+Learning;Time+Series+Forecasting+%7C+Scoring+Models;Computer+Vision+%7C+Generative+AI;Building+Data+Driven+Solutions"/>
