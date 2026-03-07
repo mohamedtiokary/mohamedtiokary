@@ -14,7 +14,7 @@ avec les équipes métier et IT.
 <a href="https://twitter.com/mohamed.tiokary" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
 <a href="mailto:tiokary.mohamed@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40"/>
+<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/m-flamzy-tiokary-ing-data/" target="_blank">
