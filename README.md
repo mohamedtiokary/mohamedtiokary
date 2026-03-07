@@ -52,8 +52,10 @@ Mon objectif est de **transformer les données en solutions concrètes pour les 
 
 ### Langages
 
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,r,sql,bash"/>
+  <img src="https://skillicons.dev/icons?i=python,r,bash,matlab"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 ---
@@ -86,15 +88,7 @@ Mon objectif est de **transformer les données en solutions concrètes pour les 
 
 ### Tools & Data Engineering
 
-### 🛠 Tech Stack
-
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
-**Tools & Big Data**
+**Big Data**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,linux"/>
 </p>
@@ -103,6 +97,7 @@ Mon objectif est de **transformer les données en solutions concrètes pour les 
   <img src="https://img.shields.io/badge/Talend-FF0000?style=for-the-badge&logo=Talend&logoColor=white">
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
 </p>
+
 ---
 
 ## Contact
