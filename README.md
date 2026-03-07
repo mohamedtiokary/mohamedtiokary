@@ -1,11 +1,127 @@
-<h1 align="center">Salut 👋, je suis Mohamed TIOKARY</h1>
-<h3 align="center">Je suis data scientist et ingénieur data, spécialisé dans la prévision et l’IA générationnelle, capable de concevoir des modèles robustes et des pipelines reproductibles tout en assurant leur déploiement sécurisé et leur suivi continu. Jʼallie rigueur technique et vulgarisation pour transformer des données complexes en décisions actionnables, en travaillant étroitement avec les équipes métier et IT.</h3>
+<h1 align="center">👋 Bonjour, je me nomme Marius KOUAKOU </h1>
+<h3 align="center"> IA Engineer • Data Engineer • BI Developer • Data Scientist </h3>
 
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://twitter.com/mohamed.tiokary » target="blank"><img align="center » src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg » alt="mohamed.tiokary » hauteur="30 » largeur = 40 » /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-flamzy-tiokary-ing-data/ » cible="blank"><img align="center » src= » https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg » alt="https://www.linkedin.com/in/m-flamzy-tiokary-ing-data/ » height="30 » width="40 » /></a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=18&pause=50&color=00ADB5&center=true&vCenter=true&multiline=true&width=900&lines=Professionnel,+autonome+et+passionné+par+l'analyse+et+l'intégration+de+données." alt="Typing animation"  />
+
+  ![](https://komarev.com/ghpvc/?username=KK-marius)
+</div>
+
+---
+
+# À propos de moi 
+* **Je suis Data Engineer, IA & BI Developer** avec 2 ans d’expérience dans la conception de solutions data de bout en bout.<br>
+
+* Passionné par la collaboration avec les métiers, j’aime concevoir des solutions fiables, évolutives et génératrices de valeur, capables d’avoir un impact immédiat et durable.
+
+---
+
+##  Mes spécialités
+
+✅ Recueil des besoins auprès des équipes métiers et écriture des spécification fonctionnelles  
+✅ Création et l’optimisation de data warehouses et data lake <br>
+✅ Gestion de projets data de bout en bout <br>
+✅ Conception de dashboards avancés, intelligents et interactifs <br>
+✅ Le nettoyage, le prétraitement et la modélisation machine learning des données 
+
+---
+
+
+# Compétences clés
+<table align="center" style="width: 100%; text-align: center; font-family: sans-serif;">
+  <tr>
+    <td width="25%">
+      <strong>Data Integration</strong><br>
+      <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white">
+      <img src="https://img.shields.io/badge/Talend-009688?logo=talend&logoColor=white">
+      <img src="https://img.shields.io/badge/SQL%20Server%20Integration%20Services-FF5722?logo=ssis&logoColor=white">
+      <img src="https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka">
+      <img src="https://img.shields.io/badge/Azure%20Data%20Factory-blue?logo=azuredatafactory&logoColor=white">  
+    </td>
+    <td width="25%">
+      <strong>Data Processing & Language</strong><br>
+      <img src="https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54">
+      <img src="https://img.shields.io/badge/Java-E25A1C?&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/R-276DC3?&logo=r&logoColor=white">
+      <img src="https://img.shields.io/badge/Apache%20Spark-FFFFFF?&logo=apachespark&logoColor=#E35A16">
+      <img src="https://img.shields.io/badge/SQL-07405e?logo=sql&logoColor=white">
+      <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white">
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?&logo=apachespark&logoColor=white">
+    </td>    
+    <td width="25%">
+      <strong>Machine Learning</strong><br>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
+      <img src="https://img.shields.io/badge/XGBoost-E53935?logo=xgboost&logoColor=white">
+      <img src="https://img.shields.io/badge/LightGBM-4CAF50?logo=lightgbm&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
+    </td>
+    <td width="25%">
+      <strong>Data Storage & Cloud</strong><br>
+      <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white">
+      <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white">
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white">    
+      <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white">    
+      <img src="https://img.shields.io/badge/Azure-blue?logo=azure&logoColor=white">      
+      <img src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?logo=googlebigquery&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>MLOps & CI/CD & Framework</strong><br>
+      <img src="https://img.shields.io/badge/FastAPI-009688?">
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white">
+      <img src="https://img.shields.io/badge/Streamlit-F14C8D?logo=streamlit&logoColor=white">
+      <img src="https://img.shields.io/badge/MLflow-F65E3B?logo=mlflow&logoColor=white">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
+      <img src="https://img.shields.io/badge/Jenkins-2C5263?logo=jenkins&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub%20Actions-000000?logo=githubactions&logoColor=white">
+      <img src="https://img.shields.io/badge/Gitlab%20CI-F05032?logo=gitlab&logoColor=white">
+    </td>
+    <td>
+      <strong>Data visualisation</strong><br>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white">
+      <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
+      <img src="https://img.shields.io/badge/Excel-11557C?logo=microsoft-excel&logoColor=white">
+      <img src="https://img.shields.io/badge/Qlik%20Sense-4CAF50?logo=qlik&logoColor=white">
+      <img src="https://img.shields.io/badge/Looker%20Studio-3F4F75?logo=looker&logoColor=white">
+    </td>
+    <td>
+      <strong>Gestion de Projet</strong><br>
+      <img src="https://img.shields.io/badge/Agile/Scrum-795548?">
+      <img src="https://img.shields.io/badge/ITIL-000000?logo=itil&logoColor=white">
+    </td>
+    <td>
+      <strong>Versioning</strong><br>
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/Github-blue?logo=github">
+      <img src="https://img.shields.io/badge/Gitlab-F05032?logo=gitlab&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
+
+## Ce que je peux apporter
+✅ Expertise technique solide & approche orientée business  
+✅ Solutions scalables et maintenables  
+✅ Communication fluide avec les équipes métiers  
+✅ Livraison rapide avec haute qualité
+
+---
+
+## Me contacter
+<p>
+  <a href="mailto:kouakou.k.marius@outlook.com" target="_blank" title="adresse de messagerie" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+  <a href="https://www.linkedin.com/in/marius-kouakou-b3308a208/" title="profl linkedIn" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools :</h3>
-<p align="left"> <a href="https://developer.android.com » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg » alt="android » largeur="40 » hauteur="40"/> </a > <a href="https://azure.microsoft.com/en-in/ » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg » alt="azure » largeur="40 » hauteur="40"/> </a > <a href="https://www.gnu.org/software/bash/ » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg » alt="bash » largeur="40 » hauteur="40"/> </a > <a href="https://cassandra.apache.org/ » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg » alt="cassandra » width="40 » hauteur="40"/> </a > <a href="https://www.chartjs.org » target="_blank » rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg » alt="chartjs » width="40 » hauteur="40"/> </a > <a href="https://www.w3schools.com/cpp/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg » alt="cplusplus » largeur="40 » hauteur="40"/> </a > <a href="https://www.w3schools.com/cs/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg » alt="csharp » width="40 » hauteur="40"/> </a > <a href="https://d3js.org/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg » alt="d3js » width="40 » hauteur="40"/> </a > <a href="https://www.docker.com/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg » alt="docker » width="40 » hauteur="40"/> </a > <a href="https://www.elastic.co » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg » alt="elasticsearch » width="40 » hauteur="40"/> </a > <a href="https://cloud.google.com » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg » alt="gcp » largeur="40 » hauteur="40"/> </a > <a href="https://git-scm.com/ » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg » alt="git » width="40 » hauteur="40"/> </a > <a href="https://grafana.com » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg » alt="grafana » width="40 » height="40"/> </a > <a href="https://graphql.org » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg » alt="graphql » width="40 » height="40"/> </a > <a href="https://hadoop.apache.org/ » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg » alt="hadoop » largeur="40 » hauteur="40"/> </a > <a href="https://www.java.com » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg » alt="java » largeur="40 » hauteur="40"/> </a > <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg » alt="javascript » width="40 » hauteur="40"/> </a > <a href="https://www.jenkins.io » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg » alt="jenkins » largeur="40 » hauteur="40"/> </a > <a href="https://kubernetes.io » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg » alt="kubernetes » width="40 » height="40"/> </a > <a href="https://www.linux.org/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg » alt="linux » width="40 » hauteur="40"/> </a > <a href="https://mariadb.org/ » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg » alt="mariadb » width="40 » hauteur="40"/> </a > <a href="https://www.mathworks.com/ » target="_blank » rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png » alt="matlab » largeur="40 » hauteur="40"/> </a > <a href="https://www.mongodb.com/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg » alt="mongodb » width="40 » hauteur="40"/> </a > <a href="https://www.microsoft.com/en-us/sql-server » target="_blank » rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg » alt="mssql » largeur="40 » hauteur="40"/> </a > <a href="https://www.mysql.com/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg » alt="mysql » width="40 » height="40"/> </a > <a href="https://nodejs.org » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg » alt="nodejs » width="40 » height="40"/> </a > <a href="https://opencv.org/ » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg » alt="opencv » largeur="40 » hauteur="40"/> </a > <a href="https://www.oracle.com/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg » alt="oracle » width="40 » hauteur="40"/> </a > <a href="https://pandas.pydata.org/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg » alt="pandas » width="40 » height="40"/> </a > <a href="https://www.photoshop.com/en » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg » alt="photoshop » largeur="40 » hauteur="40"/> </a > <a href="https://www.postgresql.org » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg » alt="postgresql » width="40 » hauteur="40"/> </a > <a href="https://www.python.org » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg » alt="python » largeur="40 » hauteur="40"/> </a > <a href="https://pytorch.org/ » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg » alt="pytorch » largeur="40 » hauteur="40"/> </a > <a href="https://reactnative.dev/ » target="_blank » rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg » alt="reactnative » width="40 » hauteur="40"/> </a > <a href="https://realm.io/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg » alt="realm » width="40 » hauteur="40"/> </a > <a href="https://scikit-learn.org/ » target="_blank » rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg » alt="scikit_learn » width="40 » hauteur="40"/> </a > <a href="https://seaborn.pydata.org/ » target="_blank » rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg » alt="seaborn » largeur="40 » hauteur="40"/> </a > <a href="https://www.sqlite.org/ » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg » alt="sqlite » width="40 » hauteur="40"/> </a > <a href="https://www.tensorflow.org » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg » alt="tensorflow » width="40 » hauteur="40"/> </a > <a href="https://unity.com/ » target="_blank » rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg » alt="unity » largeur="40 » hauteur="40"/> </a > </p>
+---
+
+<p align="center">
+  <em> Disponible pour des missions en IA, Data Engineering, BI Developer, Data Analyst et Machine Learning.</em>
+</p>
