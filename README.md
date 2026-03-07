@@ -86,12 +86,23 @@ Mon objectif est de **transformer les données en solutions concrètes pour les 
 
 ### Tools & Data Engineering
 
+### 🛠 Tech Stack
+
+**Languages & Frameworks**
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,linux"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop">
+**Tools & Big Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux"/>
+</p>
 
+<p>
+  <img src="https://img.shields.io/badge/Talend-FF0000?style=for-the-badge&logo=Talend&logoColor=white">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
+</p>
 ---
 
 ## Contact
