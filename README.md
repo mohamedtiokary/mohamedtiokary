@@ -60,21 +60,44 @@ Mon objectif est de **transformer les données en solutions concrètes pour les 
 
 ---
 
-### Machine Learning & IA
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-</p>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-
----
-
 ### Data Science
 
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas">
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy">
-<img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge">
+**Data Analysis & Manipulation**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+</p>
+
+**Data Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+</p>
+
+**Machine Learning & Prediction**
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/XGBoost-2C2C2C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Statsmodels-000000?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+**Natural Language Processing (NLP) & LLM**
+<p>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white">
+  <img src="https://img.shields.io/badge/NLTK-154F82?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+</p>
+
+**Computer Vision**
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</p>
 
 ---
 
