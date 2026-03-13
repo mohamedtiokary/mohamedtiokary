@@ -14,10 +14,9 @@
 🤖 Je développe également des solutions en **IA générative avec des LLM open source** et des applications data interactives pour faciliter la prise de décision.  
 
 Je travaille sur toute la chaîne de valeur data :
-
-- Exploration et préparation des données  
-- Modélisation statistique et machine learning  
-- Déploiement des modèles et visualisation des résultats  
+- Exploration et préparation des données
+- Modélisation statistique et machine learning
+- Déploiement des modèles et visualisation des résultats
 
 Mon objectif est de **transformer les données en solutions concrètes pour les métiers**.
 
@@ -32,27 +31,15 @@ Mon objectif est de **transformer les données en solutions concrètes pour les 
 | Scoring | Modèles de scoring client et analyse du risque |
 | Computer Vision | Classification et analyse d’images |
 | IA Générative | LLM open source, NLP |
+| **Gestion de Projet** | **Agile (Scrum), Planification (MS Project), Suivi (Trello)** |
+| **ERP** | **Gestion des processus métiers et intégration de données** |
 | Data Visualisation | Dashboards interactifs |
-
----
-
-## Projets / Applications
-
-| Projet | Techniques | Outils |
-|---|---|---|
-| Prévision de séries temporelles | Forecasting, feature engineering | Python, Prophet, Statsmodels |
-| Modèle de scoring client | Classification supervisée | Scikit-learn, XGBoost |
-| Analyse d’images | Computer Vision | OpenCV, PyTorch |
-| Application IA générative | NLP, LLM open source | HuggingFace, Transformers |
-| Dashboard analytique | Data storytelling | Streamlit, PowerBI |
 
 ---
 
 ## Stack technique
 
 ### Langages
-
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,bash,matlab"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -69,54 +56,36 @@ Mon objectif est de **transformer les données en solutions concrètes pour les 
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
 </p>
 
-**Data Visualization**
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
-</p>
-
-**Machine Learning & Prediction**
+**Machine Learning & NLP**
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/XGBoost-2C2C2C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Statsmodels-000000?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
-**Natural Language Processing (NLP) & LLM**
-<p>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white">
-  <img src="https://img.shields.io/badge/NLTK-154F82?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-</p>
-
-**Computer Vision**
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 
 ---
 
-### Data Visualisation
+### Management & Business Tools
 
-<img src="https://img.shields.io/badge/Streamlit-F14C8D?style=for-the-badge&logo=streamlit">
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi">
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge">
+**Gestion de Projet**
+<p>
+  <img src="https://img.shields.io/badge/Agile_Scrum-009688?style=for-the-badge&logo=agile&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
+</p>
+
+**ERP**
+<p>
+  <img src="https://img.shields.io/badge/ERP_Solutions-4B4B4B?style=for-the-badge&logo=sap&logoColor=white">
+</p>
 
 ---
 
 ### Tools & Data Engineering
 
-**Big Data**
+**Big Data & DevOps**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,linux"/>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Talend-FF0000?style=for-the-badge&logo=Talend&logoColor=white">
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
 </p>
@@ -126,17 +95,10 @@ Mon objectif est de **transformer les données en solutions concrètes pour les 
 ## Contact
 
 <p align="center">
-
-<a href="mailto:tiokary.mohamed@gmail.com">
+<a href="mailto:mflamzytiokary@gmail.com">
 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/>
 </a>
-
 <a href="https://www.linkedin.com/in/m-flamzy-tiokary-ing-data/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
-
-<a href="https://twitter.com/mohamed.tiokary">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
-</a>
-
 </p>
